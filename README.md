@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AweSsam
-- 👀 I’m interested in coding, art, writing, singing, and video editing
-- 🌱 I’ve learned python
+- 👀 I’m interested in coding, art, writing, singing, video editing, and game dev
+- 🌱 I’ve learned python, java, html, css, and javascript
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me at in/sameeraunc and at sameera.poddutoori@gmail.com
 
